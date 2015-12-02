@@ -3,6 +3,11 @@
 
 * [Awesome rubyists](#awesome-rubyists)
   * [Russia](#russia)
+  * [Belarus](#belarus)
 
 ## Russia
 * First.
+
+## Belarus
+* First.
+
